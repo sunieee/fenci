@@ -6421,3 +6421,124 @@ nel
 得到
 平衡
 发
+图书馆 专业: 40
+专业 教育: 39
+的 图书馆: 30
+图书馆 学校: 28
+专业 的: 23
+教育 的: 21
+图书馆 的: 18
+非正规 的: 14
+这一 专业: 12
+干部 制度: 10
+正规 教育: 9
+新 的: 8
+图书馆 事业: 8
+正规 的: 8
+的 专业: 8
+这 一: 7
+的 是: 7
+短期 训练: 7
+市 自治区: 7
+中型 以上: 7
+都 是: 7
+的 学校: 6
+的 人: 6
+的 工作: 6
+文华 大学: 6
+学校 的: 6
+公 书林: 6
+并 不: 6
+两年制 的: 6
+北大 武大: 6
+省 市: 6
+主要 是: 6
+系统 的: 6
+工作 的: 6
+在 图书馆: 6
+图书馆 干部: 6
+的 在职训练: 6
+一定 要: 5
+程度 的: 5
+的 教师: 5
+图书 科: 5
+的 发展: 5
+的 本科: 5
+的 主要: 5
+文化 知识: 5
+的 在职干部: 5
+公共 图书馆: 5
+C China: 5
+China Academic: 5
+Academic Journal: 5
+Journal Electronic: 5
+Electronic Publishing: 5
+Publishing House: 5
+House All: 5
+All rights: 5
+rights reserved: 5
+reserved http: 5
+http www: 5
+www cnki: 5
+文化课 的: 5
+图书馆 系统: 5
+是 一个: 4
+业务 上: 4
+或 专修科: 4
+多 的: 4
+这个 学校: 4
+出来 的: 4
+发展 的: 4
+的 内容: 4
+国家 的: 4
+事业 的: 4
+文华 公: 4
+以上 的: 4
+一 一: 4
+的 目的: 4
+不 一: 4
+但 也: 4
+各 地方: 4
+地 州: 4
+的 学习: 4
+的 业余教育: 4
+但 这种: 4
+的 制度: 4
+各 系统: 4
+是 这样: 4
+的 正规: 4
+科学 文化: 4
+的 大学本科: 4
+cnki net: 4
+又 有: 4
+一个 图书馆: 4
+的 图书: 4
+高等学校 图书馆: 4
+专业 教育 的: 17
+图书馆 专业 教育: 17
+图书馆 专业 的: 11
+的 专业 教育: 6
+非正规 的 在职训练: 6
+的 图书馆 专业: 5
+省 市 自治区: 5
+C China Academic: 5
+China Academic Journal: 5
+Academic Journal Electronic: 5
+Journal Electronic Publishing: 5
+Electronic Publishing House: 5
+Publishing House All: 5
+House All rights: 5
+All rights reserved: 5
+rights reserved http: 5
+reserved http www: 5
+http www cnki: 5
+图书馆 干部 制度: 5
+这一 专业 教育: 4
+的 图书馆 学校: 4
+图书馆 事业 的: 4
+文华 公 书林: 4
+图书馆 学校 的: 4
+非正规 的 专业: 4
+的 正规 教育: 4
+这一 专业 的: 4
+www cnki net: 4

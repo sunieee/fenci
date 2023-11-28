@@ -3273,3 +3273,106 @@ http
 www
 cnki
 net
+体系 分类法: 33
+图书 分类法: 28
+组配 分类法: 20
+十进 分类法: 15
+国际 十进: 14
+分类法 的: 13
+的 分类法: 11
+是 体系: 11
+的 分类号: 10
+的 分类: 9
+它 的: 9
+都 是: 8
+的 问题: 7
+的 图书: 7
+有 的: 7
+分段 式: 7
+杜威 法: 6
+的 类: 6
+一定 的: 6
+的 是: 6
+组配 成份: 5
+的 类目: 5
+说 的: 5
+C China: 5
+China Academic: 5
+Academic Journal: 5
+Journal Electronic: 5
+Electronic Publishing: 5
+Publishing House: 5
+House All: 5
+All rights: 5
+rights reserved: 5
+reserved http: 5
+http www: 5
+www cnki: 5
+类 号: 5
+没有 体系: 5
+集中 与: 5
+与 分散: 5
+分散 的: 5
+是 组配: 5
+分段 形式: 5
+式 的: 5
+明确 的: 5
+增加 组配: 4
+的 可能性: 4
+图书 分类: 4
+代表 类目: 4
+探索 作者: 4
+的 目录: 4
+目录 分类: 4
+cnki net: 4
+的 体系: 4
+小数 制: 4
+分类法 是: 4
+分类 是: 4
+是 以: 4
+它 是: 4
+分类 体系: 4
+植物 分类法: 4
+各种类型 的: 4
+的 矛盾: 4
+我 在: 4
+是 有: 4
+分类法 与: 4
+与 组配: 4
+的 界限: 4
+组配 类目: 4
+排检 的: 4
+分段 的: 4
+的 主要: 4
+主要 标志: 4
+主类 号: 4
+植物 分类学: 4
+不是 分段: 4
+国际 十进 分类法: 14
+是 体系 分类法: 8
+图书 分类法 的: 5
+C China Academic: 5
+China Academic Journal: 5
+Academic Journal Electronic: 5
+Journal Electronic Publishing: 5
+Electronic Publishing House: 5
+Publishing House All: 5
+House All rights: 5
+All rights reserved: 5
+rights reserved http: 5
+reserved http www: 5
+http www cnki: 5
+十进 分类法 的: 5
+的 类 号: 5
+的 图书 分类法: 5
+集中 与 分散: 5
+与 分散 的: 5
+分段 式 的: 5
+的 目录 分类: 4
+www cnki net: 4
+分散 的 矛盾: 4
+体系 分类法 与: 4
+分类法 与 组配: 4
+与 组配 分类法: 4
+的 主要 标志: 4
+不是 分段 式: 4

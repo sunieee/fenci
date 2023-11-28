@@ -4573,3 +4573,132 @@ http
 www
 cnki
 ne
+图书 分类法: 38
+十进 分类法: 18
+的 分类: 15
+的 科学: 15
+中国 十进: 13
+白书 编者: 13
+的 图书: 12
+的 类目: 11
+分类法 的: 10
+分类 体系: 10
+的 是: 10
+近代 的: 9
+科学 分类: 9
+科学 的: 9
+的 社会主义: 9
+C China: 8
+China Academic: 8
+Academic Journal: 8
+Journal Electronic: 8
+Electronic Publishing: 8
+Publishing House: 8
+House All: 8
+All rights: 8
+rights reserved: 8
+www cnki: 8
+cnki ne: 8
+的 分类法: 8
+它 的: 8
+排 在: 8
+的 体系: 8
+也 是: 8
+非常 错误: 8
+http www: 7
+都 是: 7
+杜威 法: 7
+科 图法: 7
+体系 是: 7
+为 基础: 7
+社会主义 的: 7
+编制 的: 6
+说 的: 6
+杜氏 图书: 6
+的 能力差: 6
+图书馆 的: 6
+reserved http: 6
+唯心主义 的: 6
+哲理 科学: 6
+革命 与: 6
+图书 分类: 5
+刘氏 的: 5
+的 中国: 5
+是 怎样: 5
+说 是: 5
+科学 体系: 5
+编制 技术: 5
+列 在: 5
+分类法 是: 5
+错误 的: 5
+国民党 统治者: 5
+列入 人文: 5
+人文 教育: 5
+类 目的: 5
+是 非常: 5
+中国 图书: 4
+他 的: 4
+采用 近代: 4
+三十 年代: 4
+了 一些: 4
+在 当时: 4
+的 子类: 4
+的 序列: 4
+它 是: 4
+目录 图书: 4
+在 最先: 4
+哲学 宗教: 4
+为什么 是: 4
+又 是: 4
+是 一个: 4
+出版 的: 4
+是 以: 4
+杜威 十进: 4
+的 道理: 4
+分类 的: 4
+统治者 的: 4
+一门 一门: 4
+一门 的: 4
+最 前面: 4
+宗教 教育: 4
+半殖民地 半封建: 4
+工团主义 无政府主义: 4
+把 马克思主义: 4
+马克思主义 和: 4
+等同 起来: 4
+作 了: 4
+国家 社会主义: 4
+中国 古籍: 4
+旧 经籍: 4
+中国 十进 分类法: 13
+近代 的 科学: 8
+的 图书 分类法: 8
+C China Academic: 8
+China Academic Journal: 8
+Academic Journal Electronic: 8
+Journal Electronic Publishing: 8
+Electronic Publishing House: 8
+Publishing House All: 8
+House All rights: 8
+All rights reserved: 8
+www cnki ne: 8
+科学 的 社会主义: 8
+http www cnki: 7
+杜氏 图书 分类法: 6
+rights reserved http: 6
+reserved http www: 6
+的 科学 分类: 5
+的 分类 体系: 5
+的 科学 体系: 5
+列入 人文 教育: 5
+是 非常 错误: 5
+中国 图书 分类法: 4
+科学 分类 体系: 4
+采用 近代 的: 4
+唯心主义 的 体系: 4
+杜威 十进 分类法: 4
+国民党 统治者 的: 4
+统治者 的 类目: 4
+一门 一门 的: 4
+把 马克思主义 和: 4
+非常 错误 的: 4

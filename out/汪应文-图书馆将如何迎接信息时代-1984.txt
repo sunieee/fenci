@@ -4360,3 +4360,79 @@ http
 www
 cnki
 r
+图书馆 的: 13
+的 信息: 10
+读者 工作: 9
+新 的: 8
+信息 工作: 8
+工作 的: 8
+都 是: 8
+的 图书馆: 8
+C China: 7
+China Academic: 7
+Academic Journal: 7
+Journal Electronic: 7
+Electronic Publishing: 7
+Publishing House: 7
+House All: 7
+All rights: 7
+rights reserved: 7
+reserved http: 7
+http www: 7
+也 是: 7
+参考 工作: 7
+的 科情: 7
+机器 检索: 7
+这 类: 7
+信息 的: 6
+www cnki: 6
+二次 文献: 6
+使 它: 5
+的 新: 5
+和 传播: 5
+书刊 资料: 5
+资料 的: 5
+公共 图书馆: 5
+传播 信息: 5
+的 书刊: 5
+情报 公司: 5
+计算机 检索: 5
+的 是: 5
+检索 的: 5
+检索 工具: 5
+的 数据库: 5
+年 起: 4
+发展 的: 4
+如 美国: 4
+开发智力 资源: 4
+的 问题: 4
+是 个: 4
+智力 资源: 4
+教育 工作: 4
+的 读者: 4
+都 将: 4
+的 工作: 4
+的 方式: 4
+解答 咨询: 4
+以 机器: 4
+手工 检索: 4
+与 科研: 4
+cnki r: 4
+的 软件: 4
+科情 机构: 4
+图书 工作: 4
+的 知识: 4
+C China Academic: 7
+China Academic Journal: 7
+Academic Journal Electronic: 7
+Journal Electronic Publishing: 7
+Electronic Publishing House: 7
+Publishing House All: 7
+House All rights: 7
+All rights reserved: 7
+rights reserved http: 7
+reserved http www: 7
+http www cnki: 6
+的 读者 工作: 4
+www cnki r: 4
+的 科情 机构: 4

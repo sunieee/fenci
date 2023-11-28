@@ -3448,3 +3448,56 @@ http
 www
 cnki
 net
+的 文书: 11
+的 档案: 10
+档案 的: 7
+的 是: 7
+的 文字: 6
+文字 记录: 6
+的 档案库: 6
+文书 档案: 6
+也 是: 6
+文字 的: 5
+奴隶制 社会: 5
+C China: 5
+China Academic: 5
+Academic Journal: 5
+Journal Electronic: 5
+Electronic Publishing: 5
+Publishing House: 5
+House All: 5
+All rights: 5
+rights reserved: 5
+reserved http: 5
+http www: 5
+www cnki: 5
+cnki net: 5
+物质 载体: 5
+他们 的: 5
+以后 的: 4
+的 图书: 4
+的 机构: 4
+记录 的: 4
+是 有: 4
+的 人: 4
+奴隶主 阶级: 4
+之类 的: 4
+公务 性: 4
+中 的: 4
+的 主要: 4
+祖庙 的: 4
+的 守藏: 4
+C China Academic: 5
+China Academic Journal: 5
+Academic Journal Electronic: 5
+Journal Electronic Publishing: 5
+Electronic Publishing House: 5
+Publishing House All: 5
+House All rights: 5
+All rights reserved: 5
+rights reserved http: 5
+reserved http www: 5
+http www cnki: 5
+www cnki net: 5
+的 文书 档案: 5
+祖庙 的 守藏: 4

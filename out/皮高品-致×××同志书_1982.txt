@@ -2303,3 +2303,69 @@ http
 www
 cnki
 ne
+图书 分类法: 10
+的 号码: 10
+第 版: 7
+我 认为: 7
+的 问题: 7
+他 的: 7
+标准 细分: 7
+编辑 小组: 7
+怎样 区分: 6
+诗 的: 6
+细分 表: 6
+历史 时期: 6
+一 细分: 6
+杜威 法: 5
+法 第: 5
+的 地方: 5
+图书馆 图书: 5
+也 是: 5
+的 作品: 5
+文学 的: 5
+都 不: 4
+不 列出: 4
+中图法 第一版: 4
+是 以: 4
+马克思列宁主义 毛泽东思想: 4
+基本 部类: 4
+科学 的: 4
+有 的: 4
+C China: 4
+China Academic: 4
+Academic Journal: 4
+Journal Electronic: 4
+Electronic Publishing: 4
+Publishing House: 4
+House All: 4
+All rights: 4
+rights reserved: 4
+reserved http: 4
+http www: 4
+www cnki: 4
+cnki ne: 4
+都 是: 4
+诗 戏剧: 4
+标有 记: 4
+和 仿: 4
+号码 是: 4
+的 观点: 4
+政治 和: 4
+杜威 法 第: 5
+标准 细分 表: 5
+都 不 列出: 4
+法 第 版: 4
+图书馆 图书 分类法: 4
+C China Academic: 4
+China Academic Journal: 4
+Academic Journal Electronic: 4
+Journal Electronic Publishing: 4
+Electronic Publishing House: 4
+Publishing House All: 4
+House All rights: 4
+All rights reserved: 4
+rights reserved http: 4
+reserved http www: 4
+http www cnki: 4
+www cnki ne: 4
+的 号码 是: 4

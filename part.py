@@ -2,6 +2,8 @@ import jieba
 import os
 import re
 from tqdm import tqdm
+from nltk.util import ngrams
+from collections import Counter
 
 
 def is_chinese_text(text, threshold=0.1):
@@ -33,9 +35,24 @@ for file in tqdm(files):
         text = f.read()
 
     # 分词
+    chinese = is_chinese_text(text)
     words = segment_text(text)
+    words = [word.strip() for word in words if is_valid_line(word)]
+
+    for n in [2, 3]:
+        # 生成n-gram
+        n_grams = ngrams(words, n)
+        co_occurrence = Counter(n_grams)
+
+        lis = list(co_occurrence.items())
+        lis.sort(key=lambda x: x[1], reverse=True)
+
+        # top 100 n-gram, and all n-gram with count > 10, add to words
+        for item, count in lis:
+            if count > 3:
+                words.append(' '.join(item) + ': ' + str(count))
+
     # 保存分词结果
     with open(output_path, 'w', encoding='utf-8') as f:
         for word in words:
-            if is_valid_line(word):
-                f.write(word + '\n')
+            f.write(word + '\n')

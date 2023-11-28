@@ -4140,3 +4140,103 @@ http
 www
 cnki
 net
+文献 信息: 20
+图书馆 改革: 17
+图书馆 的: 15
+图书 分类法: 15
+有 的: 14
+发展 的: 9
+对 图书馆: 9
+租 书馆: 9
+要 改革: 8
+是 图书馆: 8
+的 是: 8
+的 图书馆: 7
+社会主义 经济: 7
+马克思主义 哲学: 7
+的 研究: 7
+社会 的: 6
+的 发展: 6
+信息 的: 6
+图书馆 学界: 6
+图书馆学 报: 6
+C China: 6
+China Academic: 6
+Academic Journal: 6
+Journal Electronic: 6
+Electronic Publishing: 6
+Publishing House: 6
+House All: 6
+All rights: 6
+rights reserved: 6
+reserved http: 6
+http www: 6
+www cnki: 6
+cnki net: 6
+图书馆 产品: 6
+的 问题: 6
+年 第: 6
+变 图书馆: 6
+图书馆 为: 6
+为 租: 6
+编制 的: 6
+的 下级: 6
+下级 类目: 6
+改革 图书馆: 5
+都 是: 5
+的 经济: 5
+再有 的: 5
+产品 商品化: 5
+的 提出: 5
+信息 产品: 5
+第 期: 5
+图书馆 图书: 5
+商品生产 与: 5
+社会科学 和: 5
+自然科学 社会科学: 5
+下 图书馆: 4
+书馆 的: 4
+的 图书: 4
+与 社会: 4
+四川 图书馆学: 4
+和 发展: 4
+改革 的: 4
+中国 图书馆: 4
+的 学者: 4
+图书馆 学者: 4
+认为 图书馆: 4
+学者 提出: 4
+图书馆 与: 4
+是 什么: 4
+为主 的: 4
+上 的: 4
+哲学 总论: 4
+哲学 基本: 4
+光 的: 4
+知识 的: 4
+和 哲学: 4
+C China Academic: 6
+China Academic Journal: 6
+Academic Journal Electronic: 6
+Journal Electronic Publishing: 6
+Electronic Publishing House: 6
+Publishing House All: 6
+House All rights: 6
+All rights reserved: 6
+rights reserved http: 6
+reserved http www: 6
+http www cnki: 6
+www cnki net: 6
+变 图书馆 为: 6
+图书馆 为 租: 6
+为 租 书馆: 6
+的 下级 类目: 6
+文献 信息 的: 5
+年 第 期: 5
+图书馆 图书 分类法: 5
+四川 图书馆学 报: 4
+图书馆 产品 商品化: 4
+文献 信息 产品: 4
+马克思主义 哲学 总论: 4
+自然科学 社会科学 和: 4
+社会科学 和 哲学: 4
